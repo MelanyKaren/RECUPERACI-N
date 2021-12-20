@@ -1,0 +1,44 @@
+.tipojuegocard-container[data-v-31bdb278]{display:flex;justify-content:center;margin-top:.5em;margin-bottom:1em}.box[data-v-31bdb278]{width:95%;border-radius:10px;display:flex;justify-content:space-between;align-items:center;transition:all .5s}.box[data-v-31bdb278]:hover{cursor:pointer;box-shadow:0 0 10px #fff}.box__title[data-v-31bdb278]{margin-left:1em;color:#fff;font-size:2em}.box__icon[data-v-31bdb278]{width:100px;height:100px;background-repeat:no-repeat;background-position:50%}.psicologia-icon[data-v-31bdb278]{background-image:url(../img/psicologia.f4a454c5.svg)}.calculadora-icon[data-v-31bdb278]{background-image:url(../img/calculadora.c2f30b98.svg)}.self-awareness-icon[data-v-31bdb278]{background-image:url(../img/self-awareness.5f2b5c7e.svg)}.memoria-icon[data-v-31bdb278]{background-image:url(../img/memoria.797502a7.svg)}.cube-icon[data-v-31bdb278]{background-image:url(../img/3d-cube.331d9e54.svg)}.lenguaje-icon[data-v-31bdb278]{background-image:url(../img/lenguaje.d79c746a.svg);background-size:100% 100%}.percepcion[data-v-31bdb278]{background-color:#e2993b}.calculo[data-v-31bdb278]{background-color:#b91000}.razonamiento[data-v-31bdb278]{background-color:#580380}.espacio[data-v-31bdb278]{background-color:#0468bf}.memoria[data-v-31bdb278]{background-color:#055813}.n1[data-v-64729b54]{background-color:#9c04c4}.n2[data-v-64729b54]{background-color:#1a0271}.n3[data-v-64729b54]{background-color:#9e1981}.n4[data-v-64729b54]{background-color:#b26b65}.n5[data-v-64729b54]{background-color:#285d5c}@media (min-width:900px) and (orientation:landscape){.nd__main-container[data-v-64729b54]{display:grid;grid-template-columns:1fr 1fr 1fr;grid-template-rows:20% 20%;align-content:center}}.main-c[data-v-bd947de6]{width:100%;min-height:100vh}.n1[data-v-bd947de6]{background-color:#9c04c4}.n2[data-v-bd947de6]{background-color:#1a0271}.n3[data-v-bd947de6]{background-color:#9e1981}.n4[data-v-bd947de6]{background-color:#b26b65}.n5[data-v-bd947de6]{background-color:#285d5c}.nd__spacer[data-v-bd947de6]{display:block;height:5em}.student-container[data-v-bd947de6],.student-cramer[data-v-bd947de6]{display:none}@media (min-width:900px) and (orientation:landscape){.main-c[data-v-bd947de6]{background-image:url(../img/bg-home.38958be1.svg);background-position-x:-20px;background-position-y:-200px;background-size:100%;background-repeat:no-repeat}.game-type-container[data-v-bd947de6]{width:100%;display:grid;grid-template-columns:30% 70%;grid-template-rows:100%;justify-items:center}.student-container[data-v-bd947de6]{display:block;width:80%;position:relative}.student-cramer[data-v-bd947de6]{display:block;width:100%;height:100%;-o-object-fit:cover;object-fit:cover}.text-student-container[data-v-bd947de6]{position:absolute;right:-60%;top:10%;width:80%;background-color:#fff;border-radius:30px}.text-student[data-v-bd947de6]{font-size:2em;padding:.5em 1em}.nd__spacer[data-v-bd947de6]{display:none}}
+
+<head> 
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> 
+<title>Untitled Document</title> 
+<style type="text/css"> 
+#container { 
+    width: 780px; 
+    background: #FFFFFF; 
+    margin: 0 auto; 
+    border: 1px solid #000000; 
+    text-align: left; 
+} 
+#sidebar { 
+    float: left; 
+    width: 200px; 
+    background: #EBEBEB; 
+    padding: 15px 10px 15px 20px; 
+} 
+#mainContent { 
+    margin: 0 0 0 250px; 
+    padding: 0 20px 20px 20px; 
+} 
+</style> 
+</head> 
+<body> 
+<!--container div tag--> 
+<div id="container"> 
+    <!--sidebar div tag--> 
+    <div id="sidebar"> 
+    <h3>Sidebar Content</h3> 
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</p> 
+    <p>Maecenas urna purus, fermentum id, molestie in, commodo  porttitor, felis.</p> 
+      </div> 
+     <!--mainContent div tag--> 
+    <div id="mainContent"> 
+    <h1> Main Content </h1> 
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent aliquam,  justo convallis luctus rutrum.</p> 
+    <p>Phasellus tristique purus a augue condimentum adipiscing. Aenean  sagittis. Etiam leo pede, rhoncus venenatis, tristique in, vulputate at, odio.</p> 
+    <h2>H2 level heading </h2> 
+    <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Praesent aliquam,  justo convallis luctus rutrum, erat nulla fermentum diam, at nonummy quam  ante ac quam.</p> 
+    </div> 
+</div> 
+</body>
